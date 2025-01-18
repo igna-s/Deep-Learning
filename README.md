@@ -39,3 +39,6 @@ This project was developed as part of an academic initiative and has no usage re
 
 ---
 
+
+Note: some parts are in Spanish
+
